@@ -1,7 +1,7 @@
  pwd  ---Muestra la ruta donde estás (print working directory).
 - Cd 'ruta acceso'  ---Te lleva al directorio.
 - git add .  ----Agrega todos los cambios al staging.
-- git comité -m "mensaje"	---Guarda los cambios en el historial con un mensaje.
+- git commit -m "mensaje"	---Guarda los cambios en el historial con un mensaje.
 - git push origin master	---Sube cambios a GitHub (rama master/main).
 
 **para borrar**
